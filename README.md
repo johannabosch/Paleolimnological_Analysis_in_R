@@ -28,7 +28,7 @@ A list of each of the data files from the `/data` folder and their contents:
 * `FileS5_ProxyData_CSM-IMP.csv` and `FileS6_ProxyData_CSM-REF.csv` : Table containing the isotope, metal(loid), chlorophyll a, and diatom count data for the depths of the sediment core collected from the reference pond.
 
 
-* `FileS7_ZScores_CSM-IMP.csv` : Z-score data for the isotope, metal(loid)s, chlorophyll a, and diatom count for the depths of the sediment core collected from the impact pond.
+* `File S7_Metalloids_CSM-IMP.csv` and `File S8_Metalloids_CSM-REF.csv` : Table of all metal(loid)s analyzed for the impact core and reference core.
 
 
-* `File S8_Metalloids_CSM-IMP.csv` and `File S9_Metalloids_CSM-REF.csv` : Table of all metal(loid)s analyzed for the impact core and reference core.
+* `FileS9_ZScores_CSM-IMP.csv` : Z-score data for the isotope, metal(loid)s, chlorophyll a, and diatom count for the depths of the sediment core collected from the impact pond.
