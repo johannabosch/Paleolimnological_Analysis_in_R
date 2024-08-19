@@ -24,32 +24,50 @@ A list of each of the data files from the `/data` folder and their contents:
 
 ## Scripts and Figures
 
-Here is a description of all the scripts used in this analysis (see `/scripts`) and the final figures produced by each script.
+Here is a list of all the scripts used in this analysis (see `/scripts`) and the final figures produced by each script.
 
-### **Proxy Alignment with Population Data**
-- **Script:** See `scripts/Z_score_analysis.R`
-![Proxy Alignment with Population Data](figs/proxy_alignment_populations.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-### **Broken Stick Analysis for Metals**
-- **Script:** See `scripts/breakpoint_analysis_metals.R`
-![Broken Stick Analysis for Metals](figs/broken_stick_metals.png)
+<div style="flex: 1; min-width: 45%;">
+  <h4>Proxy Alignment with Population Data</h4>
+  <img src="figs/proxy_alignment_populations.png" alt="Proxy Alignment with Population Data">
+  <p><em>Generated using: scripts/Z_score_analysis.R</em></p>
+</div>
 
-### **Core Activity**
-- **Script:** See `scripts/dating_profiles.R`
-![Core Activity](figs/core_activity.png)
+<div style="flex: 1; min-width: 45%;">
+  <h4>Broken Stick Analysis for Metals</h4>
+  <img src="figs/broken_stick_metals.png" alt="Broken Stick Analysis for Metals">
+  <p><em>Generated using: scripts/breakpoint_analysis_metals.R</em></p>
+</div>
 
-### **Core Age Model**
-- **Script:** See `scripts/dating_profiles.R`
-![Core Age Model](figs/core_age.png)
+<div style="flex: 1; min-width: 45%;">
+  <h4>Core Activity</h4>
+  <img src="figs/core_activity.png" alt="Core Activity">
+  <p><em>Generated using: scripts/dating_profiles.R</em></p>
+</div>
 
-### **GAM Depth Plot**
-- **Script:** See `scripts/GAM_depth.R`
-![GAM Depth Plot](figs/GAM_depth.png)
+<div style="flex: 1; min-width: 45%;">
+  <h4>Core Age Model</h4>
+  <img src="figs/core_age.png" alt="Core Age Model">
+  <p><em>Generated using: scripts/dating_profiles.R</em></p>
+</div>
 
-### **Nested Metals Plot**
-- **Script:** See `scripts/breakpoint_analysis_metals.R`
-![Nested Metals Plot](figs/nested_metals.png)
+<div style="flex: 1; min-width: 45%;">
+  <h4>GAM Depth Plot</h4>
+  <img src="figs/GAM_depth.png" alt="GAM Depth Plot">
+  <p><em>Generated using: scripts/GAM_depth.R</em></p>
+</div>
 
-### **Paleostratigraphies**
-- **Script:** See `scripts/paleostratigraphies.R`
-![Paleostratigraphies](figs/paleostratigraphies.png)
+<div style="flex: 1; min-width: 45%;">
+  <h4>Nested Metals Plot</h4>
+  <img src="figs/nested_metals.png" alt="Nested Metals Plot">
+  <p><em>Generated using: scripts/breakpoint_analysis_metals.R</em></p>
+</div>
+
+<div style="flex: 1; min-width: 45%;">
+  <h4>Paleostratigraphies</h4>
+  <img src="figs/paleostratigraphies.png" alt="Paleostratigraphies">
+  <p><em>Generated using: scripts/paleostratigraphies.R</em></p>
+</div>
+
+</div>
