@@ -1,4 +1,4 @@
-midpoint,Total 210Pb_activity (Bq/kg),Error Total 210Pb_activity (Bq/kg),Sed. Rate (cm/y),Error Sed. Rate (cm/y),Year (CRS),Age (CRS),Error (CRS)
+depth,Total 210Pb_activity (Bq/kg),Error Total 210Pb_activity (Bq/kg),Sed. Rate (cm/y),Error Sed. Rate (cm/y),Year (CRS),Age (CRS),Error (CRS)
 0,,,,,2021.68,0,0
 0.25,572.38,39.95,0.0359,0.003,2015.39,6.3,0.68
 0.75,644.69,39.98,0.019,0.0016,1996.48,25.21,1.89
