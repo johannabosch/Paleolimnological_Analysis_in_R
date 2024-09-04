@@ -34,44 +34,45 @@ Here is a list of all the scripts used in this analysis (see `/scripts`) and the
 
 <div style="flex: 1; min-width: 45%;">
   <h4>Proxy Alignment with Population Data</h4>
-  <img src="figs/proxy_alignment_populations.png" alt="Proxy Alignment with Population Data">
   <p><em>Generated using: scripts/Z_score_analysis.R</em></p>
+  <img src="figs/proxy_alignment_populations.png" alt="Proxy Alignment with Population Data">
 </div>
 
 <div style="flex: 1; min-width: 45%;">
+  <p><em>Generated using: scripts/breakpoint_analysis_metals.R</em></p>
   <h4>Broken Stick Analysis for Metals</h4>
   <img src="figs/broken_stick_metals.png" alt="Broken Stick Analysis for Metals">
-  <p><em>Generated using: scripts/breakpoint_analysis_metals.R</em></p>
+  
 </div>
 
 <div style="flex: 1; min-width: 45%;">
   <h4>Core Activity</h4>
-  <img src="figs/core_activity.png" alt="Core Activity">
   <p><em>Generated using: scripts/dating_profiles.R</em></p>
+  <img src="figs/core_activity.png" alt="Core Activity">
 </div>
 
 <div style="flex: 1; min-width: 45%;">
   <h4>Core Age Model</h4>
-  <img src="figs/core_age.png" alt="Core Age Model">
   <p><em>Generated using: scripts/dating_profiles.R</em></p>
+  <img src="figs/core_age.png" alt="Core Age Model">
 </div>
 
 <div style="flex: 1; min-width: 45%;">
   <h4>GAM Depth Plot</h4>
-  <img src="figs/GAM_depth.png" alt="GAM Depth Plot">
   <p><em>Generated using: scripts/GAM_depth.R</em></p>
+  <img src="figs/GAM_depth.png" alt="GAM Depth Plot">
 </div>
 
 <div style="flex: 1; min-width: 45%;">
   <h4>Nested Metals Plot</h4>
-  <img src="figs/nested_metals.png" alt="Nested Metals Plot">
   <p><em>Generated using: scripts/breakpoint_analysis_metals.R</em></p>
+  <img src="figs/nested_metals.png" alt="Nested Metals Plot">
 </div>
 
 <div style="flex: 1; min-width: 45%;">
   <h4>Paleostratigraphies</h4>
-  <img src="figs/paleostratigraphies.png" alt="Paleostratigraphies">
   <p><em>Generated using: scripts/paleostratigraphies.R</em></p>
+  <img src="figs/paleostratigraphies.png" alt="Paleostratigraphies">
 </div>
 
 </div>
