@@ -2,9 +2,13 @@
 
 ## Study overview
 
-This is a public repo that can be used to learn how to conduct a paleoecological analysis in R. The project methods described here are formally reviewed and cited in the following paper. Please use this citation to cite this repository:
+This is a public repo that can be used to learn how to conduct a paleoecological analysis in R.
+The project methods described here are formally reviewed and cited in the following paper.
 
-    Bosch J, Álvarez-Manzaneda I, Smol J, Michelutti N, Robertson GJ, Wilhelm SI, Montevecchi WA. 2024 Blending census and paleolimnological data allows for tracking the establishment and growth of a major gannet colony over several centuries. Proceedings of the Royal Society B [in review].
+Please use this citation to cite this repository:
+
+Bosch, JL., Álvarez-Manzaneda, I., Smol, J.P. et al. Blending census and paleolimnological data allows for tracking the establishment and growth of a major gannet colony over several centuries. Sci Rep 14, 20462 (2024). https://doi.org/10.1038/s41598-024-69860-z
+
     
 
 ## Accessing the data
