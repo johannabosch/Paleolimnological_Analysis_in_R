@@ -9,6 +9,7 @@ Please use this citation to cite this repository:
 
 ```
 Bosch, JL., Álvarez-Manzaneda, I., Smol, J.P. et al. Blending census and paleolimnological data allows for tracking the establishment and growth of a major gannet colony over several centuries. Sci Rep 14, 20462 (2024). https://doi.org/10.1038/s41598-024-69860-z
+Zenodo: https://doi.org/10.5281/zenodo.14045909
 ```
 
     
